@@ -1,3 +1,4 @@
-# Color Palette Generator Ver 1.0
-### _About the application_:
-#### This program generates a random color palette consisting of 5 colors each time the "Generate Palette" button is clicked. The colors are represented as hex codes and are displayed on the webpage within colored boxes.
+# Version 1.0 of the Color Palette Generator
+
+### Overview:
+The Color Palette Generator is a web application that generates a random color palette of five colors each time the "Generate Palette" button is clicked. The colors are presented in hex codes and are displayed on the webpage as colored boxes.
